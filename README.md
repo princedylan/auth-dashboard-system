@@ -108,11 +108,6 @@ Website Developer focused on building clean, scalable web systems.
 
 ---
 
-## ⚡ Note
-
 This project is part of my learning/build journey in full-stack development and backend authentication systems.
 
 ---
-
-
-Just say the word.
